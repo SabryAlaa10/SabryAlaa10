@@ -102,25 +102,10 @@ me.say_hi()
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SabryAlaa10&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=15"/>
-  
-  <!-- Top Languages by Repository -->
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=15"/>
-  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabryAlaa10&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SabryAlaa10&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabryAlaa10&theme=github_dark" alt="Top Languages by Commit" />
 </div>
-
-<br>
-
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabryAlaa10&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=f85149&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&border_radius=15" alt="GitHub Streak" />
-  
-</div>
-
----
 
 ---
 
@@ -184,8 +169,6 @@ me.say_hi()
     </tr>
   </tbody>
 </table>
-
----
 
 ---
 
