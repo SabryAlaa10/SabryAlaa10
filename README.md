@@ -59,7 +59,7 @@ me.say_hi()
 <div align="center">
 
 ### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,dart,bash&theme=dark" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,r,bash&theme=dark" alt="Programming Languages" />
 
 </div>
 
