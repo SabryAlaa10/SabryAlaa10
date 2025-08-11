@@ -1,26 +1,44 @@
 <div align="center">👋 Hello World, I'm Sabry Mohamed Alaaeldin</div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Full-Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Software+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="250">
+</div>
 🚀 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=3000&pause=500&color=61DAFB&center=true&vCenter=true&width=800&lines=Passionate+AI+Engineer+from+Egypt+🇪🇬;Turning+Data+into+Actionable+Insights;Building+Intelligent+Solutions+with+Machine+Learning;Always+Eager+to+Learn+and+Innovate!" alt="About Me Typing" />
+</div>
+<br>
+<div align="center">
 pythonclass SabryAlaaeldin:
     def __init__(self):
         self.name = "Sabry Mohamed Alaaeldin"
         self.role = "AI & Data Science Engineer"
         self.location = "Egypt 🇪🇬"
         self.languages = ["Arabic", "English"]
-        self.passions = ["Machine Learning", "Data Science", "Software Development"]
-        self.currently_learning = ["Deep Learning", "MLOps", "Cloud Computing"]
+        self.passions = [
+            "Machine Learning", 
+            "Data Science", 
+            "Software Development"
+        ]
+        self.currently_learning = [
+            "Deep Learning", 
+            "MLOps", 
+            "Cloud Computing"
+        ]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
 
+# Initialize and greet
 me = SabryAlaaeldin()
 me.say_hi()
+</div>
 
 🛠️ Tech Stack & Tools
 <div align="center">
@@ -59,15 +77,115 @@ Visualization & Analytics
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabryAlaa10&theme=radical&border_radius=10" alt="GitHub Streak" />
 </div>
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Projects GIF" width="350" height="200">
+</div>
 🏆 Featured Projects
 <div align="center">
-🎯 Project📝 Description🛠️ Tech Stack🔗 LinkNetflix Data AnalyticsDeep dive analysis of Netflix user behavior and content trendsPython Pandas Matplotlib🔗 ExploreIncome Prediction MLLogistic regression model for income level classificationScikit-learn Python Jupyter🔗 ExploreCustomer Churn PredictorMachine learning solution for customer retentionTensorFlow Python Streamlit🔗 ExploreAirbnb Price IntelligenceAI-powered pricing optimization for Airbnb listingsXGBoost Flask Docker🔗 ExploreE-Commerce Analytics HubComprehensive analysis of Pakistan's largest e-commerce datasetPower BI SQL Python🔗 Explore
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Innovative+Projects;Data-Driven+Solutions;Machine+Learning+Excellence!" alt="Projects Typing" />
 </div>
+<br>
+<table align="center">
+  <thead>
+    <tr>
+      <th>🎯 <strong>Project</strong></th>
+      <th>📝 <strong>Description</strong></th>
+      <th>🛠️ <strong>Tech Stack</strong></th>
+      <th>🔗 <strong>Link</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>🎬 Netflix Data Analytics</strong></td>
+      <td>Deep dive analysis of Netflix user behavior and content trends</td>
+      <td><code>Python</code> <code>Pandas</code> <code>Matplotlib</code></td>
+      <td><a href="https://github.com/SabryAlaa10/Netflix-Users-Analysis">🔗 Explore</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>💰 Income Prediction ML</strong></td>
+      <td>Logistic regression model for income level classification</td>
+      <td><code>Scikit-learn</code> <code>Python</code> <code>Jupyter</code></td>
+      <td><a href="https://github.com/SabryAlaa10/Adult_income-Logistic-Regression">🔗 Explore</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🔄 Customer Churn Predictor</strong></td>
+      <td>Machine learning solution for customer retention analysis</td>
+      <td><code>TensorFlow</code> <code>Python</code> <code>Streamlit</code></td>
+      <td><a href="https://github.com/SabryAlaa10/-Customer-Churn-Prediction">🔗 Explore</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🏠 Airbnb Price Intelligence</strong></td>
+      <td>AI-powered pricing optimization for Airbnb listings</td>
+      <td><code>XGBoost</code> <code>Flask</code> <code>Docker</code></td>
+      <td><a href="https://github.com/SabryAlaa10/Airbnb-Prediction-Model">🔗 Explore</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🛒 E-Commerce Analytics Hub</strong></td>
+      <td>Comprehensive analysis of Pakistan's largest e-commerce dataset</td>
+      <td><code>Power BI</code> <code>SQL</code> <code>Python</code></td>
+      <td><a href="https://github.com/SabryAlaa10/Pakistan-s-Largest-E-Commerce-Dataset">🔗 Explore</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>⚽ European Soccer Database</strong></td>
+      <td>Data-driven insights and analytics from European soccer data</td>
+      <td><code>Python</code> <code>SQL</code> <code>Matplotlib</code></td>
+      <td><a href="https://github.com/SabryAlaa10/European-Soccer-Database">🔗 Explore</a></td>
+    </tr>
+  </tbody>
+</table>
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Achievement GIF" width="300" height="200">
+</div>
 🏅 Certifications & Achievements
 <div align="center">
-🎓 Certification🏢 Institution📅 YearFreelancing BasicsMahara Tech2024Java Programming CertificationInformation Technology Institute (ITI)2024Machine Learning FundamentalsCoursera2024Data Analysis with PythonFreeCodeCamp2024Deep Learning SpecializationCoursera (In Progress)2025
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=700&lines=Continuous+Learning+Journey;Building+Expertise+Step+by+Step;Certified+Professional+Skills!" alt="Certifications Typing" />
 </div>
+<br>
+<table align="center">
+  <thead>
+    <tr>
+      <th>🎓 <strong>Certification</strong></th>
+      <th>🏢 <strong>Institution</strong></th>
+      <th>📅 <strong>Year</strong></th>
+      <th>🌟 <strong>Status</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>💼 Freelancing Basics</strong></td>
+      <td>Mahara Tech</td>
+      <td>2024</td>
+      <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>☕ Java Programming Certification</strong></td>
+      <td>Information Technology Institute (ITI)</td>
+      <td>2024</td>
+      <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🤖 Machine Learning Fundamentals</strong></td>
+      <td>Coursera</td>
+      <td>2024</td>
+      <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>📊 Data Analysis with Python</strong></td>
+      <td>FreeCodeCamp</td>
+      <td>2024</td>
+      <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🧠 Deep Learning Specialization</strong></td>
+      <td>Coursera</td>
+      <td>2025</td>
+      <td><img src="https://img.shields.io/badge/In%20Progress-ffc107?style=flat-square" alt="In Progress"></td>
+    </tr>
+  </tbody>
+</table>
 
 📈 Activity Graph
 <div align="center">
