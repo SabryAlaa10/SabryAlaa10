@@ -1,7 +1,7 @@
 # <div align="center">👋 Hello World, I'm **Sabry Mohamed AlaaEldin**</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Engineer;Software+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Software+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -225,17 +225,29 @@ me.say_hi()
       <td align="center"><strong>💼 Freelancing Basics</strong></td>
       <td>Mahara Tech</td>
       <td>2024</td>
-      <td><img src="https://www.linkedin.com/posts/sabry-mohmmed-56a5b4320_i-am-thrilled-to-announce-that-i-have-earned-activity-7223675721410351105-yHf1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFE_FSIBAVNFPqpq5eAN91eZiEPk-yqb0sA" alt="Completed"></td>
+      <td><a href="https://www.linkedin.com/posts/sabry-mohmmed-56a5b4320_i-am-thrilled-to-announce-that-i-have-earned-activity-7223675721410351105-yHf1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFE_FSIBAVNFPqpq5eAN91eZiEPk-yqb0sA"><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></a></td>
     </tr>
     <tr>
       <td align="center"><strong>☕ Java Programming Certification</strong></td>
       <td>Information Technology Institute (ITI)</td>
       <td>2024</td>
-      <td><img src="https://www.linkedin.com/posts/sabry-mohmmed-56a5b4320_java-oop-git-activity-7303124133075120128-il14?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFE_FSIBAVNFPqpq5eAN91eZiEPk-yqb0sA" alt="Completed"></td>
+      <td><a href="https://www.linkedin.com/posts/sabry-mohmmed-56a5b4320_java-oop-git-activity-7303124133075120128-il14?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFE_FSIBAVNFPqpq5eAN91eZiEPk-yqb0sA"><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></a></td>
     </tr>
- <tr>
+    <tr>
       <td align="center"><strong>🤖 DATA SCIENCE AND AI DIPLOMA</strong></td>
       <td>AMIT Learning</td>
+      <td>2025</td>
+      <td><img src="https://img.shields.io/badge/In%20Progress-ffc107?style=flat-square" alt="In Progress"></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>📊 Data Analysis with Python</strong></td>
+      <td>FreeCodeCamp</td>
+      <td>2024</td>
+      <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🧠 Deep Learning Specialization</strong></td>
+      <td>Coursera</td>
       <td>2025</td>
       <td><img src="https://img.shields.io/badge/In%20Progress-ffc107?style=flat-square" alt="In Progress"></td>
     </tr>
