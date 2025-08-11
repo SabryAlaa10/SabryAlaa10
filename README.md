@@ -94,6 +94,8 @@ me.say_hi()
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 
 </div>
 
@@ -121,54 +123,79 @@ me.say_hi()
 
 <br>
 
-<table align="center">
-  <thead>
-    <tr>
-      <th>🎯 <strong>Project</strong></th>
-      <th>📝 <strong>Description</strong></th>
-      <th>🛠️ <strong>Tech Stack</strong></th>
-      <th>🔗 <strong>Link</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><strong>🎬 Netflix Data Analytics</strong></td>
-      <td>Deep dive analysis of Netflix user behavior and content trends</td>
-      <td><code>Python</code> <code>Pandas</code> <code>Matplotlib</code></td>
-      <td><a href="https://github.com/SabryAlaa10/Netflix-Users-Analysis">🔗 Explore</a></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>💰 Income Prediction ML</strong></td>
-      <td>Logistic regression model for income level classification</td>
-      <td><code>Scikit-learn</code> <code>Python</code> <code>Jupyter</code></td>
-      <td><a href="https://github.com/SabryAlaa10/Adult_income-Logistic-Regression">🔗 Explore</a></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🔄 Customer Churn Predictor</strong></td>
-      <td>Machine learning solution for customer retention analysis</td>
-      <td><code>TensorFlow</code> <code>Python</code> <code>Streamlit</code></td>
-      <td><a href="https://github.com/SabryAlaa10/-Customer-Churn-Prediction">🔗 Explore</a></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🏠 Airbnb Price Intelligence</strong></td>
-      <td>AI-powered pricing optimization for Airbnb listings</td>
-      <td><code>XGBoost</code> <code>Flask</code> <code>Docker</code></td>
-      <td><a href="https://github.com/SabryAlaa10/Airbnb-Prediction-Model">🔗 Explore</a></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🛒 E-Commerce Analytics Hub</strong></td>
-      <td>Comprehensive analysis of Pakistan's largest e-commerce dataset</td>
-      <td><code>Power BI</code> <code>SQL</code> <code>Python</code></td>
-      <td><a href="https://github.com/SabryAlaa10/Pakistan-s-Largest-E-Commerce-Dataset">🔗 Explore</a></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>⚽ European Soccer Database</strong></td>
-      <td>Data-driven insights and analytics from European soccer data</td>
-      <td><code>Python</code> <code>SQL</code> <code>Matplotlib</code></td>
-      <td><a href="https://github.com/SabryAlaa10/European-Soccer-Database">🔗 Explore</a></td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  
+### 🎬 **Netflix Data Analytics**
+[![Netflix Analysis](https://img.shields.io/badge/🔗_Explore_Project-FF6B6B?style=for-the-badge&logoColor=white)](https://github.com/SabryAlaa10/Netflix-Users-Analysis)
+
+📊 **Deep dive analysis of Netflix user behavior and content trends**
+- 🔍 Comprehensive data exploration and visualization
+- 📈 User engagement patterns and content performance metrics
+- 🎯 Actionable insights for content strategy optimization
+
+**Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn`
+
+---
+
+### 💰 **Income Prediction ML**
+[![Income Prediction](https://img.shields.io/badge/🔗_Explore_Project-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/SabryAlaa10/Adult_income-Logistic-Regression)
+
+🤖 **Logistic regression model for income level classification**
+- 🎯 94% accuracy in income bracket prediction
+- 📊 Feature engineering and data preprocessing pipeline
+- 🔧 Model optimization and performance evaluation
+
+**Tech Stack:** `Scikit-learn` `Python` `Jupyter` `Pandas`
+
+---
+
+### 🔄 **Customer Churn Predictor**
+[![Churn Prediction](https://img.shields.io/badge/🔗_Explore_Project-45B7D1?style=for-the-badge&logoColor=white)](https://github.com/SabryAlaa10/-Customer-Churn-Prediction)
+
+📉 **Machine learning solution for customer retention analysis**
+- 🎯 Predictive modeling for customer churn prevention
+- 📊 Interactive dashboard for real-time predictions
+- 💼 Business impact analysis and retention strategies
+
+**Tech Stack:** `TensorFlow` `Python` `Streamlit` `Plotly`
+
+---
+
+### 🏠 **Airbnb Price Intelligence**
+[![Airbnb Pricing](https://img.shields.io/badge/🔗_Explore_Project-FF9500?style=for-the-badge&logoColor=white)](https://github.com/SabryAlaa10/Airbnb-Prediction-Model)
+
+🏡 **AI-powered pricing optimization for Airbnb listings**
+- 💡 Smart pricing recommendations based on market analysis
+- 🗺️ Location-based pricing factors and seasonality trends
+- 🚀 Deployed web application with REST API
+
+**Tech Stack:** `XGBoost` `Flask` `Docker` `PostgreSQL`
+
+---
+
+### 🛒 **E-Commerce Analytics Hub**
+[![E-Commerce Analytics](https://img.shields.io/badge/🔗_Explore_Project-8E44AD?style=for-the-badge&logoColor=white)](https://github.com/SabryAlaa10/Pakistan-s-Largest-E-Commerce-Dataset)
+
+📈 **Comprehensive analysis of Pakistan's largest e-commerce dataset**
+- 📊 Interactive Power BI dashboards and KPI tracking
+- 🛍️ Customer segmentation and purchase behavior analysis
+- 💰 Revenue optimization and market trend insights
+
+**Tech Stack:** `Power BI` `SQL` `Python` `DAX`
+
+---
+
+### ⚽ **European Soccer Database**
+[![Soccer Analytics](https://img.shields.io/badge/🔗_Explore_Project-27AE60?style=for-the-badge&logoColor=white)](https://github.com/SabryAlaa10/European-Soccer-Database)
+
+⚽ **Data-driven insights and analytics from European soccer data**
+- 🏆 Player performance analysis and team statistics
+- 📊 Match prediction models and outcome forecasting
+- 🎯 Transfer market analysis and player valuation
+
+**Tech Stack:** `Python` `SQL` `Matplotlib` `SQLite`
+
+</div>
 
 ---
 
