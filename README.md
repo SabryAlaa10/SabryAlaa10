@@ -225,18 +225,20 @@ me.say_hi()
       <td align="center"><strong>💼 Freelancing Basics</strong></td>
       <td>Mahara Tech</td>
       <td>2024</td>
-      <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
+      <td><img src="https://www.linkedin.com/posts/sabry-mohmmed-56a5b4320_i-am-thrilled-to-announce-that-i-have-earned-activity-7223675721410351105-yHf1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFE_FSIBAVNFPqpq5eAN91eZiEPk-yqb0sA" alt="Completed"></td>
     </tr>
     <tr>
       <td align="center"><strong>☕ Java Programming Certification</strong></td>
       <td>Information Technology Institute (ITI)</td>
       <td>2024</td>
-      <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
+      <td><img src="https://www.linkedin.com/posts/sabry-mohmmed-56a5b4320_java-oop-git-activity-7303124133075120128-il14?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFE_FSIBAVNFPqpq5eAN91eZiEPk-yqb0sA" alt="Completed"></td>
     </tr>
-    <tr>
+ <tr>
       <td align="center"><strong>🤖 DATA SCIENCE AND AI DIPLOMA</strong></td>
-      <td>AMIT</td>
+      <td>AMIT Learning</td>
       <td>2025</td>
+      <td><img src="https://img.shields.io/badge/In%20Progress-ffc107?style=flat-square" alt="In Progress"></td>
+    </tr>
   </tbody>
 </table>
 
