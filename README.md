@@ -26,15 +26,24 @@ me.say_hi()
 <div align="center">
 Programming Languages
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,sql,bash&theme=dark" alt="Programming Languages" />
+</div>
+<div align="center">
 AI/ML & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="AI/ML" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI/ML" />
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</div>
+<div align="center">
 Development Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows&theme=dark" alt="Development Tools" />
+</div>
+<div align="center">
 Databases & Cloud
 <img src="https://skillicons.dev/icons?i=sqlite,firebase,aws&theme=dark" alt="Databases & Cloud" />
+</div>
+<div align="center">
 Visualization & Analytics
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
@@ -43,11 +52,11 @@ Visualization & Analytics
 
 📊 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabryAlaa10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabryAlaa10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=compact&langs_count=8&theme=radical&border_radius=10"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabryAlaa10&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabryAlaa10&theme=radical&border_radius=10" alt="GitHub Streak" />
 </div>
 
 🏆 Featured Projects
@@ -57,12 +66,12 @@ Visualization & Analytics
 
 🏅 Certifications & Achievements
 <div align="center">
-🎓 Certification🏢 Institution📅 YearFreelancing MasteryMahara Tech2023Java Programming ExcellenceInformation Technology Institute (ITI)2023Machine Learning SpecializationCoursera (In Progress)2024
+🎓 Certification🏢 Institution📅 YearFreelancing BasicsMahara Tech2024Java Programming CertificationInformation Technology Institute (ITI)2024Machine Learning FundamentalsCoursera2024Data Analysis with PythonFreeCodeCamp2024Deep Learning SpecializationCoursera (In Progress)2025
 </div>
 
 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SabryAlaa10&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SabryAlaa10&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=61dafb&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 🎵 Currently Vibing To
