@@ -1,7 +1,7 @@
-# <div align="center">👋 Hello World, I'm **Sabry Mohamed Alaaeldin**</div>
+# <div align="center">👋 Hello World, I'm **Sabry Mohamed AlaaEldin**</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Software+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Engineer;Software+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -236,18 +236,6 @@ me.say_hi()
     <tr>
       <td align="center"><strong>🤖 DATA SCIENCE AND AI DIPLOMA</strong></td>
       <td>AMIT Learning</td>
-      <td>2025</td>
-      <td><img src="https://img.shields.io/badge/In%20Progress-ffc107?style=flat-square" alt="In Progress"></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>📊 Data Analysis with Python</strong></td>
-      <td>FreeCodeCamp</td>
-      <td>2024</td>
-      <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🧠 Deep Learning Specialization</strong></td>
-      <td>Coursera</td>
       <td>2025</td>
       <td><img src="https://img.shields.io/badge/In%20Progress-ffc107?style=flat-square" alt="In Progress"></td>
     </tr>
