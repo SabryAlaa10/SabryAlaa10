@@ -135,56 +135,36 @@ me.say_hi()
 
 <div align="center">
 
-### **💻 Language Analytics**
+### **💻 Language Analytics & Core Technologies**
 
 <!-- 🚀 Top Languages Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=compact&theme=tokyonight&bg_color=000000&title_color=ff9800&text_color=ffffff&icon_color=ff9800&border_color=ff9800&hide_border=false&langs_count=8&card_width=500&custom_title=🚀%20Top%20Languages%20Analytics" alt="Top Languages" />
+  <img src="https://quickchart.io/chart?c={
+    type:'doughnut',
+    data:{
+      labels:['Python','JavaScript','C++','Java','HTML','CSS'],
+      datasets:[{
+        data:[40,25,15,10,5,5],
+        backgroundColor:['#3572A5','#f1e05a','#f34b7d','#b07219','#e34c26','#563d7c']
+      }]
+    },
+    options:{
+      plugins:{
+        legend:{position:'right', labels:{color:'#fff', font:{size:14}}},
+        title:{display:true, text:'🚀 Top Languages Analytics', color:'#ff9800', font:{size:18}}
+      },
+      cutout:'70%'
+    }
+  }" alt="Top Languages Chart" width="500" />
 </p>
+
 
 ---
 
-<!-- 🌟 Skills Progress -->
+<!-- 📊 Skills Table -->
 <table align="center">
 <tr>
-<td align="center"><b>🐍 Python</b></td>
-<td>
-  <img src="https://progress-bar.dev/90/?title=Python&width=250&color=00ff99" alt="Python"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🐼 Pandas</b></td>
-<td>
-  <img src="https://progress-bar.dev/85/?title=Pandas&width=250&color=00bcd4" alt="Pandas"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>📊 Plotly Express</b></td>
-<td>
-  <img src="https://progress-bar.dev/80/?title=Plotly%20Express&width=250&color=ff9800" alt="Plotly Express"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🎨 Seaborn</b></td>
-<td>
-  <img src="https://progress-bar.dev/75/?title=Seaborn&width=250&color=ff5722" alt="Seaborn"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>⚙️ Scikit-learn</b></td>
-<td>
-  <img src="https://progress-bar.dev/88/?title=Scikit-learn&width=250&color=9c27b0" alt="Scikit-learn"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🗄️ SQL</b></td>
-<td>
-  <img src="https://progress-bar.dev/70/?title=SQL&width=250&color=2196f3" alt="SQL"/>
-</td>
-</tr>
-</table>
-
-
+<td valign="top" width="50%">
 
 **🔥 Core Technologies**
 ```yaml
@@ -195,6 +175,7 @@ Languages:
   ⚡ C/C++       : ████████████████░░░░ 80%
   🗄️ SQL         : █████████████████░░░ 85%
   🎯 C#          : ██████████████░░░░░░ 70%
+
 ```
 
 </td>
