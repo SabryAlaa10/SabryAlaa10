@@ -455,15 +455,15 @@ Data Viz:
 
 ```mermaid
 graph LR
-    A[Q1 2025] --> B[Complete AI Diploma]
-    B --> C[AWS Certification]
-    C --> D[Q2 2025]
-    D --> E[Open Source Contributions]
-    E --> F[MLOps Projects]
-    F --> G[Q3 2025]
+    A[Certification] --> B[Complete AI Diploma]
+    B --> C[؛Power BI Diploma]
+    C --> D[Foundations]
+    D --> E[Docker Course]
+    E --> F[Machine Learing Projects]
+    F --> G[Growth]
     G --> H[Advanced Deep Learning]
     H --> I[Production ML Systems]
-    I --> J[Q4 2025]
+    I --> J[Deployment]
     J --> K[Lead AI Projects]
     
     style A fill:#ff6b6b
