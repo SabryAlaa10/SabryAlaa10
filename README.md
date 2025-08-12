@@ -136,8 +136,8 @@ me.say_hi()
 <div align="center">
 
 ### **💻 Language Analytics**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=donut&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=21262d&hide_border=true&card_width=400" alt="Top Languages Donut" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=pie&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=21262d&hide_border=true&card_width=400" alt="Top Languages Pie" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=compact&theme=dark&bg_color=0d1117&title_color=87CEEB&text_color=87CEEB&icon_color=87CEEB&border_color=87CEEB&hide_border=false&card_width=500" alt="Top Languages Bar" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=donut-vertical&theme=dark&bg_color=0d1117&title_color=87CEEB&text_color=87CEEB&icon_color=87CEEB&border_color=87CEEB&hide_border=false&card_width=400" alt="Top Languages Vertical Donut" />
 
 </div>
 
