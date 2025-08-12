@@ -218,7 +218,7 @@ Data Viz:
 - 🎯 Strategic insights dashboard for content optimization
 - 📱 Responsive web interface with real-time analytics
 
-**Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn` `Streamlit` `Plotly`
+**Tech Stack:** `Python` `Pandas` `NumPy` `Plotly Express` `Seaborn` `Scikit-learn`
 
 ---
 
@@ -233,7 +233,7 @@ Data Viz:
 - 🔧 Model interpretability with SHAP values
 - 🚀 RESTful API deployment with Flask
 
-**Tech Stack:** `Scikit-learn` `Python` `Jupyter` `Pandas` `Flask` `SHAP`
+**Tech Stack:** `Scikit-learn` `Python` `Jupyter` `Pandas` `Plotly Express` `NumPy`
 
 ---
 
@@ -248,7 +248,7 @@ Data Viz:
 - 💼 Business impact calculator and ROI analysis
 - 🔔 Automated alert system for high-risk customers
 
-**Tech Stack:** `TensorFlow` `Python` `Streamlit` `Plotly` `SQLite` `Docker`
+**Tech Stack:** `Jupyter` `Python` `Scikit-lear` `Plotly` `Pandas` 
 
 ---
 
@@ -263,7 +263,7 @@ Data Viz:
 - 📅 Seasonal demand forecasting and trend analysis
 - 🚀 Full-stack web application with CI/CD pipeline
 
-**Tech Stack:** `XGBoost` `Flask` `Docker` `PostgreSQL` `Folium` `AWS`
+**Tech Stack:** `Python` `Pandas` `Scikit-learn` `NumPy` `Plotly Express`
 
 ---
 
@@ -278,7 +278,7 @@ Data Viz:
 - 💰 Revenue optimization through market basket analysis
 - 🔮 Sales forecasting with time series analysis
 
-**Tech Stack:** `Power BI` `SQL Server` `Python` `DAX` `Azure`
+**Tech Stack:** `Power BI` `Scikit-learn` `Python` `NumPy` `Plotly Express`
 
 ---
 
@@ -293,7 +293,7 @@ Data Viz:
 - 🎯 Match outcome prediction with ensemble methods
 - 💸 Transfer market valuation and trend analysis
 
-**Tech Stack:** `Python` `SQL` `Matplotlib` `SQLite` `Scikit-learn` `Tableau`
+**Tech Stack:** `Python` `SQL` `Matplotlib` `SQLite` `Scikit-learn` `Power BI`
 
 </div>
 
@@ -344,11 +344,18 @@ Data Viz:
       <td><img src="https://img.shields.io/badge/Pending-gray?style=flat-square" alt="Pending"></td>
     </tr>
     <tr>
-      <td align="center"><strong>☁️ AWS Cloud Practitioner</strong></td>
-      <td>Amazon Web Services</td>
+      <td align="center"><strong>📊 Power BI Diploma</strong></td>
+      <td>satr codes</td>
       <td>2025</td>
       <td><img src="https://img.shields.io/badge/Planned-blue?style=flat-square" alt="Planned"></td>
-      <td><img src="https://img.shields.io/badge/Q2%202025-lightblue?style=flat-square" alt="Q2 2025"></td>
+      <td><img src="https://img.shields.io/badge/Q2%202025-lightblue?style=flat-square" alt="Q4 2025"></td>
+    </tr>
+     <tr>
+      <td align="center"><strong>🍃 MongoDB Diploma</strong></td>
+      <td>Coursera</td>
+      <td>2025</td>
+      <td><img src="https://img.shields.io/badge/Planned-blue?style=flat-square" alt="Planned"></td>
+      <td><img src="https://img.shields.io/badge/Q2%202025-lightblue?style=flat-square" alt="Q4 2025"></td>
     </tr>
   </tbody>
 </table>
@@ -405,12 +412,11 @@ Data Viz:
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/spxd007)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://web.telegram.org/k/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabryAlaa10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabry-alaaeldin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabryalaa10@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201234567890)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sabry-mohmmed-56a5b4320)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sabryalaa736@gmail.com)
+
 
 </div>
 
