@@ -136,9 +136,45 @@ me.say_hi()
 <div align="center">
 
 ### **💻 Language Analytics**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=70a5fd&hide_border=false&card_width=500&langs_count=8" alt="Top Languages Bar Chart" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=donut&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=70a5fd&hide_border=false&card_width=400&langs_count=6" alt="Top Languages Donut Chart" />
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0,000428,004e92&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0,000428,004e92&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
+</picture>
+
+<br><br>
+
+<!-- Programming Skills Progress Bars -->
+<div align="left" style="width: 100%; max-width: 600px; margin: 0 auto;">
+
+**🐍 Python**
+<img src="https://skillicons.dev/icons?i=python" width="26px" style="vertical-align: middle;"/> 
+<img src="https://progress-bar.dev/95/?title=Advanced&width=400&color=3776ab" />
+
+**🌐 HTML/CSS**  
+<img src="https://skillicons.dev/icons?i=html,css" width="52px" style="vertical-align: middle;"/> 
+<img src="https://progress-bar.dev/88/?title=Proficient&width=400&color=e34f26" />
+
+**☕ Java**
+<img src="https://skillicons.dev/icons?i=java" width="26px" style="vertical-align: middle;"/> 
+<img src="https://progress-bar.dev/75/?title=Intermediate&width=400&color=f89820" />
+
+**⚡ C/C++**
+<img src="https://skillicons.dev/icons?i=c,cpp" width="52px" style="vertical-align: middle;"/> 
+<img src="https://progress-bar.dev/80/?title=Good&width=400&color=00599c" />
+
+**🗄️ SQL**
+<img src="https://skillicons.dev/icons?i=mysql" width="26px" style="vertical-align: middle;"/> 
+<img src="https://progress-bar.dev/85/?title=Proficient&width=400&color=4479a1" />
+
+**🔧 C#**
+<img src="https://skillicons.dev/icons?i=cs" width="26px" style="vertical-align: middle;"/> 
+<img src="https://progress-bar.dev/70/?title=Intermediate&width=400&color=239120" />
+
+</div>
 
 </div>
 
