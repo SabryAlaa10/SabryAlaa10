@@ -137,43 +137,49 @@ me.say_hi()
 
 ### **💻 Language Analytics**
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0,000428,004e92&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0,000428,004e92&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
-</picture>
+<!-- Animated Language Stats with Wave Animation -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=compact&theme=radical&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&icon_color=00f5ff&border_color=30363d&hide_border=false&langs_count=10&card_width=600&custom_title=🚀%20Top%20Languages%20Analytics" alt="Language Stats" />
 
-<br><br>
+<!-- Language Skills with Dynamic Progress Animation -->
+<table align="center" style="border: none;">
+<tr>
+<td align="center" style="border: none;">
 
-<!-- Programming Skills Progress Bars -->
-<div align="left" style="width: 100%; max-width: 600px; margin: 0 auto;">
+**🔥 Core Technologies**
+```yaml
+Languages:
+  🐍 Python      : ████████████████████ 95%
+  ☕ Java        : ███████████████░░░░░ 75%
+  🌐 HTML/CSS    : ████████████████▓▓▓▓ 88%
+  ⚡ C/C++       : ████████████████░░░░ 80%
+  🗄️ SQL         : █████████████████░░░ 85%
+  🎯 C#          : ██████████████░░░░░░ 70%
+```
 
-**🐍 Python**
-<img src="https://skillicons.dev/icons?i=python" width="26px" style="vertical-align: middle;"/> 
-<img src="https://progress-bar.dev/95/?title=Advanced&width=400&color=3776ab" />
+</td>
+<td align="center" style="border: none;">
 
-**🌐 HTML/CSS**  
-<img src="https://skillicons.dev/icons?i=html,css" width="52px" style="vertical-align: middle;"/> 
-<img src="https://progress-bar.dev/88/?title=Proficient&width=400&color=e34f26" />
+**🛠️ Tech Stack Proficiency**
+```yaml
+AI/ML:
+  🤖 TensorFlow  : ████████████████████ 90%
+  🔥 PyTorch     : █████████████████░░░ 85%
+  📊 Scikit-Learn: ████████████████████ 92%
+  🐼 Pandas      : ████████████████████ 95%
 
-**☕ Java**
-<img src="https://skillicons.dev/icons?i=java" width="26px" style="vertical-align: middle;"/> 
-<img src="https://progress-bar.dev/75/?title=Intermediate&width=400&color=f89820" />
+Data Viz:
+  📈 Matplotlib  : █████████████████░░░ 88%
+  🎨 Seaborn     : █████████████████░░░ 85%
+  ⚡ Plotly      : ████████████████░░░░ 82%
+```
 
-**⚡ C/C++**
-<img src="https://skillicons.dev/icons?i=c,cpp" width="52px" style="vertical-align: middle;"/> 
-<img src="https://progress-bar.dev/80/?title=Good&width=400&color=00599c" />
+</td>
+</tr>
+</table>
 
-**🗄️ SQL**
-<img src="https://skillicons.dev/icons?i=mysql" width="26px" style="vertical-align: middle;"/> 
-<img src="https://progress-bar.dev/85/?title=Proficient&width=400&color=4479a1" />
-
-**🔧 C#**
-<img src="https://skillicons.dev/icons?i=cs" width="26px" style="vertical-align: middle;"/> 
-<img src="https://progress-bar.dev/70/?title=Intermediate&width=400&color=239120" />
-
+<!-- Animated Skill Waves -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twinkling" />
 </div>
 
 </div>
