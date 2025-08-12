@@ -428,9 +428,9 @@ Data Viz:
 <div align="center">
 
 ### **📬 Quick Contact**
-💬 **Telegram**: [@spxd007](https://t.me/spxd007) - *Fastest response*  
-📧 **Email**: [sabryalaa10@gmail.com](mailto:sabryalaa10@gmail.com) - *Professional inquiries*  
-💼 **LinkedIn**: [Sabry AlaaEldin](https://linkedin.com/in/sabry-alaaeldin) - *Network & opportunities*  
+💬 **Telegram**: [@BORH1031](https://web.telegram.org/k/) - *Fastest response*  
+📧 **Email**: [sabryalaa10@gmail.com](sabryalaa736@gmail.com) - *Professional inquiries*  
+💼 **LinkedIn**: [Sabry Mohamed](www.linkedin.com/in/sabry-mohmmed-56a5b4320) - *Network & opportunities*  
 
 </div>
 
@@ -456,15 +456,15 @@ Data Viz:
 ```mermaid
 graph LR
     A[Certification] --> B[Complete AI Diploma]
-    B --> C[؛Power BI Diploma]
+    B --> C[MongoDB Diploma]
     C --> D[Foundations]
     D --> E[Docker Course]
-    E --> F[Machine Learing Projects]
+    E --> F[Power BI Diploma]
     F --> G[Growth]
     G --> H[Advanced Deep Learning]
     H --> I[Production ML Systems]
     I --> J[Deployment]
-    J --> K[Lead AI Projects]
+    J --> K[Machine Learing Projects]
     
     style A fill:#ff6b6b
     style D fill:#4ecdc4
@@ -498,15 +498,11 @@ graph LR
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Coffee.png" alt="Coffee" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="50" height="50" />
+<div align="center" style="background-color: #000000; padding: 10px;">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/laptop.png" alt="Laptop" width="50" height="50" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/coffee.png" alt="Coffee" width="50" height="50" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/brain.png" alt="Brain" width="50" height="50" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/rocket.png" alt="Rocket" width="50" height="50" />
 </div>
 
-<div align="center">
-  
-**Happy Coding! 🚀**
 
-</div>
