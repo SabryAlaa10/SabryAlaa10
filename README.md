@@ -139,25 +139,8 @@ me.say_hi()
 
 <!-- 🚀 Top Languages Card -->
 <p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'doughnut',
-    data:{
-      labels:['Python','JavaScript','C++','Java','HTML','CSS'],
-      datasets:[{
-        data:[40,25,15,10,5,5],
-        backgroundColor:['#3572A5','#f1e05a','#f34b7d','#b07219','#e34c26','#563d7c']
-      }]
-    },
-    options:{
-      plugins:{
-        legend:{position:'right', labels:{color:'#fff', font:{size:14}}},
-        title:{display:true, text:'🚀 Top Languages Analytics', color:'#ff9800', font:{size:18}}
-      },
-      cutout:'70%'
-    }
-  }" alt="Top Languages Chart" width="500" />
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22JavaScript%22%2C%22C%2B%2B%22%2C%22Java%22%2C%22HTML%22%2C%22CSS%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B40%2C25%2C15%2C10%2C5%2C5%5D%2C%22backgroundColor%22%3A%5B%22%233572A5%22%2C%22%23f1e05a%22%2C%22%23f34b7d%22%2C%22%23b07219%22%2C%22%23e34c26%22%2C%22%23563d7c%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22color%22%3A%22%23fff%22%2C%22font%22%3A%7B%22size%22%3A14%7D%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22%F0%9F%9A%80%20Top%20Languages%20Analytics%22%2C%22color%22%3A%22%23ff9800%22%2C%22font%22%3A%7B%22size%22%3A18%7D%7D%7D%2C%22cutout%22%3A%2270%25%22%7D%7D" alt="Top Languages Chart" width="500" />
 </p>
-
 
 ---
 
