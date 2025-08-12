@@ -136,8 +136,9 @@ me.say_hi()
 <div align="center">
 
 ### **💻 Language Analytics**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=compact&theme=dark&bg_color=0d1117&title_color=87CEEB&text_color=87CEEB&icon_color=87CEEB&border_color=87CEEB&hide_border=false&card_width=500" alt="Top Languages Bar" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=donut-vertical&theme=dark&bg_color=0d1117&title_color=87CEEB&text_color=87CEEB&icon_color=87CEEB&border_color=87CEEB&hide_border=false&card_width=400" alt="Top Languages Vertical Donut" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=70a5fd&hide_border=false&card_width=500&langs_count=8" alt="Top Languages Bar Chart" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=donut&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=70a5fd&hide_border=false&card_width=400&langs_count=6" alt="Top Languages Donut Chart" />
 
 </div>
 
