@@ -137,13 +137,54 @@ me.say_hi()
 
 ### **💻 Language Analytics**
 
-<!-- Animated Language Stats with Wave Animation -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=compact&theme=radical&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&icon_color=00f5ff&border_color=30363d&hide_border=false&langs_count=10&card_width=600&custom_title=🚀%20Top%20Languages%20Analytics" alt="Language Stats" />
+<!-- 🚀 Top Languages Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=compact&theme=tokyonight&bg_color=000000&title_color=ff9800&text_color=ffffff&icon_color=ff9800&border_color=ff9800&hide_border=false&langs_count=8&card_width=500&custom_title=🚀%20Top%20Languages%20Analytics" alt="Top Languages" />
+</p>
 
-<!-- Language Skills with Dynamic Progress Animation -->
-<table align="center" style="border: none;">
+---
+
+<!-- 🌟 Skills Progress -->
+<table align="center">
 <tr>
-<td align="center" style="border: none;">
+<td align="center"><b>🐍 Python</b></td>
+<td>
+  <img src="https://progress-bar.dev/90/?title=Python&width=250&color=00ff99" alt="Python"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🐼 Pandas</b></td>
+<td>
+  <img src="https://progress-bar.dev/85/?title=Pandas&width=250&color=00bcd4" alt="Pandas"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>📊 Plotly Express</b></td>
+<td>
+  <img src="https://progress-bar.dev/80/?title=Plotly%20Express&width=250&color=ff9800" alt="Plotly Express"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🎨 Seaborn</b></td>
+<td>
+  <img src="https://progress-bar.dev/75/?title=Seaborn&width=250&color=ff5722" alt="Seaborn"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Scikit-learn</b></td>
+<td>
+  <img src="https://progress-bar.dev/88/?title=Scikit-learn&width=250&color=9c27b0" alt="Scikit-learn"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ SQL</b></td>
+<td>
+  <img src="https://progress-bar.dev/70/?title=SQL&width=250&color=2196f3" alt="SQL"/>
+</td>
+</tr>
+</table>
+
+
 
 **🔥 Core Technologies**
 ```yaml
