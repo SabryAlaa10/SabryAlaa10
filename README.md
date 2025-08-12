@@ -69,7 +69,7 @@ me.say_hi()
 <div align="center">
 
 ### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,mysql,r,bash,javascript&theme=dark" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,mysql,bash&theme=dark" alt="Programming Languages" />
 
 </div>
 
@@ -136,8 +136,8 @@ me.say_hi()
 <div align="center">
 
 ### **💻 Language Analytics**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SabryAlaa10&theme=react&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=21262d" alt="Top Languages by Repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabryAlaa10&theme=react&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=21262d" alt="Top Languages by Commit" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=donut&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=21262d&hide_border=true&card_width=400" alt="Top Languages Donut" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabryAlaa10&layout=pie&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=21262d&hide_border=true&card_width=400" alt="Top Languages Pie" />
 
 </div>
 
@@ -235,7 +235,7 @@ me.say_hi()
 - 💰 Revenue optimization through market basket analysis
 - 🔮 Sales forecasting with time series analysis
 
-**Tech Stack:** `Power BI` `SQL Server` `Python` `DAX` `R` `Azure`
+**Tech Stack:** `Power BI` `SQL Server` `Python` `DAX` `Azure`
 
 ---
 
