@@ -341,6 +341,13 @@ Data Viz:
       <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
       <td><a href="https://www.linkedin.com/posts/sabry-mohmmed-56a5b4320_java-oop-git-activity-7303124133075120128-il14?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFE_FSIBAVNFPqpq5eAN91eZiEPk-yqb0sA"><img src="https://img.shields.io/badge/View-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a></td>
     </tr>
+        <tr>
+      <td align="center"><strong>Sprints × Microsoft Summer Camp in Artificial Intelligence and Machine Learning</strong></td>
+      <td>Sprints & Microsoft</td>
+      <td>2024</td>
+      <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
+      <td><a href="https://www.linkedin.com/posts/sabry-mohmmed-56a5b4320_artificialintelligence-machinelearning-microsoft-activity-7365348731015036928-XiEF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFE_FSIBAVNFPqpq5eAN91eZiEPk-yqb0sA"><img src="https://img.shields.io/badge/View-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a></td>
+    </tr>
     <tr>
       <td align="center"><strong>🤖 Data Science & AI Professional Diploma</strong></td>
       <td>AMIT Learning Academy</td>
