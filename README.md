@@ -263,7 +263,7 @@ Data Viz:
 ![Language](https://img.shields.io/github/languages/top/SabryAlaa10/Airbnb-Prediction-Model?style=flat-square&color=blue)
 
 🏡 **AI-driven dynamic pricing optimization for property rentals**
-- 💡 Smart pricing recommendations using XGBoost
+- 💡 Smart pricing recommendations using RandomForestRegressor
 - 🗺️ Geospatial analysis with location intelligence
 - 📅 Seasonal demand forecasting and trend analysis
 - 🚀 Full-stack web application with CI/CD pipeline
