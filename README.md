@@ -211,6 +211,21 @@ Data Viz:
 <br>
 
 <div align="center">
+
+### 🚖 **Uber Ride Analysis & Price Prediction**
+[![Uber Analysis](https://img.shields.io/badge/🔗_Explore_Project-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/SabryAlaa10/Uber-Data-Analytics)
+![Stars](https://img.shields.io/github/stars/SabryAlaa10/Airbnb-Prediction-Model?style=flat-square&color=yellow)
+![Language](https://img.shields.io/github/languages/top/SabryAlaa10/Airbnb-Prediction-Model?style=flat-square&color=blue)
+
+🏡 **🚖 AI-powered prediction & analysis for Uber rides**
+- 💡 Smart fare prediction using RandomForestRegressor
+- 📊 Revenue & demand analysis by location and time
+- ⏱️ Wait time impact on pricing and customer behavior
+- 🚀 Full-stack deployment with CI/CD pipeline
+
+**Tech Stack:** `Python` `Pandas` `Scikit-learn` `NumPy` `Plotly Express` `PowerBI` 
+
+---
   
 ### 🎬 **Netflix Data Analytics Dashboard**
 [![Netflix Analysis](https://img.shields.io/badge/🔗_Explore_Project-FF6B6B?style=for-the-badge&logoColor=white)](https://github.com/SabryAlaa10/Netflix-Users-Analysis)
@@ -348,6 +363,13 @@ Data Viz:
       <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
       <td><a href="https://www.linkedin.com/posts/sabry-mohmmed-56a5b4320_artificialintelligence-machinelearning-microsoft-activity-7365348731015036928-XiEF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFE_FSIBAVNFPqpq5eAN91eZiEPk-yqb0sA"><img src="https://img.shields.io/badge/View-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a></td>
     </tr>
+                <tr>
+      <td align="center"><strong>📊 Power BI Diploma</strong></td>
+      <td>satr codes</td>
+      <td>2025</td>
+      <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
+      <td><a href="https://www.linkedin.com/posts/sabry-mohmmed-56a5b4320_aesaefaewaeyaezabraepaesaeyaepaes-powerbi-activity-7365798804291305472-ofur?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFE_FSIBAVNFPqpq5eAN91eZiEPk-yqb0sA"><img src="https://img.shields.io/badge/View-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a></td>
+    </tr>
     <tr>
       <td align="center"><strong>🤖 Data Science & AI Professional Diploma</strong></td>
       <td>AMIT Learning Academy</td>
@@ -355,19 +377,12 @@ Data Viz:
       <td><img src="https://img.shields.io/badge/In%20Progress-ffc107?style=flat-square" alt="In Progress"></td>
       <td><img src="https://img.shields.io/badge/Pending-gray?style=flat-square" alt="Pending"></td>
     </tr>
-    <tr>
-      <td align="center"><strong>📊 Power BI Diploma</strong></td>
-      <td>satr codes</td>
-      <td>2025</td>
-      <td><img src="https://img.shields.io/badge/Planned-blue?style=flat-square" alt="Planned"></td>
-      <td><img src="https://img.shields.io/badge/Q2%202025-lightblue?style=flat-square" alt="Q4 2025"></td>
-    </tr>
      <tr>
-      <td align="center"><strong>🍃 MongoDB Diploma</strong></td>
+         <td align="center"><strong>🍃 MongoDB Diploma</strong></td>
       <td>Coursera</td>
       <td>2025</td>
-      <td><img src="https://img.shields.io/badge/Planned-blue?style=flat-square" alt="Planned"></td>
-      <td><img src="https://img.shields.io/badge/Q2%202025-lightblue?style=flat-square" alt="Q4 2025"></td>
+      <td><img src="https://img.shields.io/badge/In%20Progress-ffc107?style=flat-square" alt="In Progress"></td>
+      <td><img src="https://img.shields.io/badge/Pending-gray?style=flat-square" alt="Pending"></td>
     </tr>
   </tbody>
 </table>
