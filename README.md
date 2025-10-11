@@ -212,6 +212,21 @@ Data Viz:
 
 <div align="center">
 
+### 😷 **Face Mask Detection**
+[![Uber Analysis](https://img.shields.io/badge/🔗_Explore_Project-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/SabryAlaa10/Face-Mask-)
+![Stars](https://img.shields.io/github/stars/SabryAlaa10/Airbnb-Prediction-Model?style=flat-square&color=yellow)
+![Language](https://img.shields.io/github/languages/top/SabryAlaa10/Airbnb-Prediction-Model?style=flat-square&color=blue)
+
+🏥 **😷 Face Mask Detection — Intelligent Deep Learning System for Real-Time Safety Monitoring**
+  - 💡 Smart mask detection using MobileNetV2 deep learning model
+  - 📊 Data distribution & balance analysis by class and dataset
+  - ⏱️ Real-time detection with webcam and confidence score
+  - 🚀 Full project deployment with CI/CD pipeline
+
+**Tech Stack:** `Python` `Pandas` `Scikit-learn` `NumPy` `Plotly Express` `tensorflow` `opencv-python` `keras`
+
+---
+
 ### 🚖 **Uber Ride Analysis & Price Prediction**
 [![Uber Analysis](https://img.shields.io/badge/🔗_Explore_Project-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/SabryAlaa10/Uber-Data-Analytics)
 ![Stars](https://img.shields.io/github/stars/SabryAlaa10/Airbnb-Prediction-Model?style=flat-square&color=yellow)
