@@ -387,7 +387,7 @@ Data Viz:
     </tr>
         <tr>
       <td align="center"><strong>🤖 Data Science & AI Professional Diploma</strong></td>
-      <td>satr codes</td>
+      <td>AMIT Learning</td>
       <td>2025</td>
       <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
       <td><a href="https://www.linkedin.com/posts/sabry-mohmmed_ai-datascience-learning-activity-7386625475642732544-_6fc?
