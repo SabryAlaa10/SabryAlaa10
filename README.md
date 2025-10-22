@@ -213,7 +213,7 @@ Data Viz:
 <div align="center">
 
 ### 😷 **Face Mask Detection**
-[![Uber Analysis](https://img.shields.io/badge/🔗_Explore_Project-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/SabryAlaa10/Face-Mask-)
+[![Uber Analysis](https://img.shields.io/badge/🔗_Explore_Project-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/SabryAlaa10/Face-Mask-Detection-)
 ![Stars](https://img.shields.io/github/stars/SabryAlaa10/Airbnb-Prediction-Model?style=flat-square&color=yellow)
 ![Language](https://img.shields.io/github/languages/top/SabryAlaa10/Airbnb-Prediction-Model?style=flat-square&color=blue)
 
@@ -378,19 +378,20 @@ Data Viz:
       <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
       <td><a href="https://www.linkedin.com/posts/sabry-mohmmed-56a5b4320_artificialintelligence-machinelearning-microsoft-activity-7365348731015036928-XiEF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFE_FSIBAVNFPqpq5eAN91eZiEPk-yqb0sA"><img src="https://img.shields.io/badge/View-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a></td>
     </tr>
-                <tr>
+       <tr>
       <td align="center"><strong>📊 Power BI Diploma</strong></td>
       <td>satr codes</td>
       <td>2025</td>
       <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
       <td><a href="https://www.linkedin.com/posts/sabry-mohmmed-56a5b4320_aesaefaewaeyaezabraepaesaeyaepaes-powerbi-activity-7365798804291305472-ofur?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFE_FSIBAVNFPqpq5eAN91eZiEPk-yqb0sA"><img src="https://img.shields.io/badge/View-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a></td>
     </tr>
-    <tr>
+        <tr>
       <td align="center"><strong>🤖 Data Science & AI Professional Diploma</strong></td>
-      <td>AMIT Learning Academy</td>
+      <td>satr codes</td>
       <td>2025</td>
-      <td><img src="https://img.shields.io/badge/In%20Progress-ffc107?style=flat-square" alt="In Progress"></td>
-      <td><img src="https://img.shields.io/badge/Pending-gray?style=flat-square" alt="Pending"></td>
+      <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
+      <td><a href="https://www.linkedin.com/posts/sabry-mohmmed_ai-datascience-learning-activity-7386625475642732544-_6fc?
+  utm_source=share&utm_medium=member_desktop&rcm=ACoAAFE_FSIBAVNFPqpq5eAN91eZiEPk-yqb0sA"><img src="https://img.shields.io/badge/View-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a></td>
     </tr>
      <tr>
          <td align="center"><strong>🍃 MongoDB Diploma</strong></td>
