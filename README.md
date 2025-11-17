@@ -212,6 +212,21 @@ Data Viz:
 
 <div align="center">
 
+### 🎯 **Gesture Volume Control System**
+[![Gesture Control](https://img.shields.io/badge/🔗_Explore_Project-4A90E2?style=for-the-badge&logoColor=white)](https://github.com/SabryAlaa10/Gesture-Volume-Control)
+![Stars](https://img.shields.io/github/stars/SabryAlaa10/Gesture-Volume-Control?style=flat-square&color=yellow)
+![Language](https://img.shields.io/github/languages/top/SabryAlaa10/Gesture-Volume-Control?style=flat-square&color=blue)
+
+🖐️ **Touchless audio control system using real-time hand gesture recognition**
+- 👁️ Real-time hand tracking with MediaPipe technology
+- 🎚️ Intuitive pinch gestures for precise volume adjustment
+- 📊 Visual feedback with on-screen volume indicators
+- ⚡ High-performance processing with FPS monitoring
+
+**Tech Stack:** `Python` `OpenCV` `MediaPipe` `NumPy` `pycaw` `comtypes`
+
+---
+
 ### 😷 **Face Mask Detection**
 [![Uber Analysis](https://img.shields.io/badge/🔗_Explore_Project-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/SabryAlaa10/Face-Mask-Detection-)
 ![Stars](https://img.shields.io/github/stars/SabryAlaa10/Airbnb-Prediction-Model?style=flat-square&color=yellow)
@@ -256,6 +271,7 @@ Data Viz:
 **Tech Stack:** `Python` `Pandas` `NumPy` `Plotly Express` `Seaborn` `Scikit-learn`
 
 ---
+
 
 ### 💰 **Smart Income Prediction Engine**
 [![Income Prediction](https://img.shields.io/badge/🔗_Explore_Project-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/SabryAlaa10/Adult_income-Logistic-Regression)
