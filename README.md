@@ -212,6 +212,23 @@ Data Viz:
 
 <div align="center">
 
+---
+
+### 🖱️ **Virtual Mouse - Hand Gesture Control**
+[![Virtual Mouse](https://img.shields.io/badge/🔗_Explore_Project-4CAF50?style=for-the-badge&logoColor=white)](https://github.com/SabryAlaa10/Virtual-Mouse-Project)
+![Stars](https://img.shields.io/github/stars/SabryAlaa10/Virtual-Mouse-Project?style=flat-square&color=yellow)
+![Language](https://img.shields.io/github/languages/top/SabryAlaa10/Virtual-Mouse-Project?style=flat-square&color=blue)
+
+🖐️ **AI-powered touchless mouse control using real-time hand tracking**
+- 🎯 Move cursor with index finger gestures in real-time
+- 👆 Click actions using finger pinch detection
+- 📹 Live webcam feed with hand landmark visualization
+- ⚡ Smooth and responsive cursor movement with interpolation
+
+**Tech Stack:** `Python` `OpenCV` `MediaPipe` `PyAutoGUI` `NumPy`
+
+---
+
 ### 🎯 **Gesture Volume Control System**
 [![Gesture Control](https://img.shields.io/badge/🔗_Explore_Project-4A90E2?style=for-the-badge&logoColor=white)](https://github.com/SabryAlaa10/Gesture-Volume-Control)
 ![Stars](https://img.shields.io/github/stars/SabryAlaa10/Gesture-Volume-Control?style=flat-square&color=yellow)
@@ -271,6 +288,8 @@ Data Viz:
 **Tech Stack:** `Python` `Pandas` `NumPy` `Plotly Express` `Seaborn` `Scikit-learn`
 
 ---
+
+
 
 
 ### 💰 **Smart Income Prediction Engine**
@@ -409,13 +428,21 @@ Data Viz:
       <td><a href="https://www.linkedin.com/posts/sabry-mohmmed_ai-datascience-learning-activity-7386625475642732544-_6fc?
   utm_source=share&utm_medium=member_desktop&rcm=ACoAAFE_FSIBAVNFPqpq5eAN91eZiEPk-yqb0sA"><img src="https://img.shields.io/badge/View-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a></td>
     </tr>
+       <tr>
+         <td align="center"><strong>Docker 101</strong></td>
+      <td>satr codes</td>
+      <td>2025</td>
+      <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
+      <td><a href="https://www.linkedin.com/posts/sabry-mohmmed_docker-learningjourney-satr-activity-7401874171573547009-HB4e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFE_FSIBAVNFPqpq5eAN91eZiEPk-yqb0sA"><img src="https://img.shields.io/badge/View-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a></td>
+    </tr>
      <tr>
          <td align="center"><strong>🍃 MongoDB Diploma</strong></td>
-      <td>Coursera</td>
+      <td>Udemy</td>
       <td>2025</td>
       <td><img src="https://img.shields.io/badge/In%20Progress-ffc107?style=flat-square" alt="In Progress"></td>
       <td><img src="https://img.shields.io/badge/Pending-gray?style=flat-square" alt="Pending"></td>
     </tr>
+    
   </tbody>
 </table>
 
