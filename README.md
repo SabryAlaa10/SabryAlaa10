@@ -332,14 +332,14 @@ Full-stack healthcare booking platform — web dashboard + Android app.
     <tr>
   <td><strong>🤖 Generative AI with Python — LLM & RAG (35hrs)</strong></td>
   <td>ITI & NVIDIA DLI</td>
-  <td>2025</td>
+  <td>2026</td>
   <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
   <td><a href="https://www.linkedin.com/posts/sabry-mohmmed_genai-nvidia-iti-activity-7450533909819367425-py3M"><img src="https://img.shields.io/badge/View-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a></td>
 </tr>
     <tr>
   <td><strong>⚡ Building LLM Applications With Prompt Engineering</strong></td>
   <td>NVIDIA</td>
-  <td>2025</td>
+  <td>2026</td>
   <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
   <td><a href="https://www.linkedin.com/posts/sabry-mohmmed_nvidia-itiabregypt-generativeai-activity-7423776243491295233-33oC"><img src="https://img.shields.io/badge/View-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a></td>
 </tr>
