@@ -75,6 +75,7 @@
 
 ---
 ### 🧠 **NeuroGuard AI — Stroke, Hemorrhage & Alzheimer's Decision Support**
+[![Code](https://img.shields.io/badge/🔗_Explore_Project-4A90E2?style=for-the-badge&logoColor=white)](https://sabryalaa10.github.io/Alzheimer-s-Neurodegenerative-Tracking/)
 
 > **🟡 Hackathon Project — 48-Hour Build, Working End-to-End Pipeline**
 
@@ -90,7 +91,10 @@ Multimodal clinical decision-support system helping ER physicians resolve a real
 
 ---
 ### 🩺 CDC Opioid Prescribing Guideline Assistant — Clinical RAG System
-🟡 Hackathon Project — Grounded Clinical Q&A, Built for Accuracy Under Pressure
+[![CDC Opioid Prescribing Guideline Assistant](https://img.shields.io/badge/🔗_Explore_Project-4ECDC4?style=for-the-badge&logoColor=white)](https://sabryalaa10.github.io/CDC-linical-Practice-Guideline-for-Prescribing-Opioids-for-Pain-United-States-2022/)
+
+> **🟡 Hackathon Project — Grounded Clinical Q&A, Built for Accuracy Under Pressure**
+
 RAG chatbot answering clinician questions strictly from the 2022 CDC Opioid Prescribing Guideline (Dowell et al.) — structure-aware chunking, verified citations, and explicit scope enforcement for excluded populations (pediatric, cancer, sickle cell, palliative care).
 
 * 🧠 Structure-aware ingestion pipeline (PDF → clean Markdown → metadata-tagged chunks by Recommendation number & page) via PyMuPDF + pdfplumber
