@@ -112,6 +112,34 @@ me.say_hi()
 <div align="center">
 
 ---
+### 🧠 **NeuroGuard AI — Stroke, Hemorrhage & Alzheimer's Decision Support**
+
+> **🟡 Hackathon Project — 48-Hour Build, Working End-to-End Pipeline**
+
+Multimodal clinical decision-support system helping ER physicians resolve a real, high-stakes dilemma: distinguishing acute ischemic stroke from Alzheimer's-related presentations before administering tPA — where the wrong call can cause fatal brain hemorrhage in patients with Cerebral Amyloid Angiopathy.
+
+- 🧠 3 independently trained CV models run in parallel per scan — hemorrhage detection (RSNA dataset), stroke classification (YOLOv12, 92.4% mAP), Alzheimer's stage classification (86.1% accuracy)
+- 📚 RAG layer grounded in the 2022 & 2026 AHA/ASA stroke guidelines — every claim cited, zero answers from outside knowledge
+- ⚠️ Explicit cross-model conflict detection — flags disagreement between models instead of silently picking one
+- 🖥️ Live ER dashboard with per-model confidence gauges, retrieved evidence, and physician sign-off step
+- 🌐 End-to-end orchestration in n8n — image upload → 3 CV models → RAG retrieval → guideline-grounded clinical synthesis
+
+**Stack:** `n8n` `Roboflow` `Qdrant` `OpenAI` `LangChain`
+
+---
+### 🩺 CDC Opioid Prescribing Guideline Assistant — Clinical RAG System
+🟡 Hackathon Project — Grounded Clinical Q&A, Built for Accuracy Under Pressure
+RAG chatbot answering clinician questions strictly from the 2022 CDC Opioid Prescribing Guideline (Dowell et al.) — structure-aware chunking, verified citations, and explicit scope enforcement for excluded populations (pediatric, cancer, sickle cell, palliative care).
+
+* 🧠 Structure-aware ingestion pipeline (PDF → clean Markdown → metadata-tagged chunks by Recommendation number & page) via PyMuPDF + pdfplumber
+* 🔍 Vector retrieval via Qdrant + OpenAI Embeddings, orchestrated end-to-end in n8n
+* ✅ Citation grounding enforced at the metadata level — no recommendation number or page is ever inferred, only copied from indexed source
+* 🚫 Explicit guardrails for out-of-scope populations and off-topic queries, with dedicated test suite validating scope enforcement
+* 📊 Automated evaluation pipeline (LLM-as-judge) scoring faithfulness, citation accuracy, and scope handling against a ground-truth test set
+
+Stack: `n8n` `OpenAI` `Qdrant` `PyMuPDF` `pdfplumber` `LangChain`
+
+---
 
 ### 🤖 **AI WhatsApp Receptionist — Medical Clinics (Kuwait & Saudi Arabia)**
 > **🟢 Production Project — Real Clients, Real Conversations**
@@ -396,7 +424,61 @@ Full-stack healthcare booking platform — web dashboard + Android app.
 </table>
 
 ---
+---
 
+## 🌟 **Events, Programs & Community Involvement**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Learning+Beyond+Courses;Building+Through+Community;Connecting+with+AI+Builders" alt="Events Typing" />
+</div>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>📌 <strong>Event / Program</strong></th>
+      <th>🏢 <strong>Organizer(s)</strong></th>
+      <th>📅 <strong>Year</strong></th>
+      <th>🌟 <strong>Status</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🤖 CognitionX Egypt 2026</strong><br/><sub>Agentic AI · Semantic Kernel · AI Security · GitHub Copilot · AI-Native Development</sub></td>
+      <td>Microsoft Egypt</td>
+      <td>2026</td>
+      <td><img src="https://img.shields.io/badge/Attended-28a745?style=flat-square" alt="Attended"></td>
+    </tr>
+    <tr>
+      <td><strong>⚡ n8n in Egypt</strong><br/><sub>Automation & AI community tech event</sub></td>
+      <td>n8n Community</td>
+      <td>2026</td>
+      <td><img src="https://img.shields.io/badge/Attended-28a745?style=flat-square" alt="Attended"></td>
+    </tr>
+    <tr>
+      <td><strong>🚀 AI Hackathons — Masafat Masr</strong><br/><sub>Selected participant, real-world AI problem solving</sub></td>
+      <td>Orange Digital Center · CreaTiva · ITIDA · TIEC · Constant</td>
+      <td>2026</td>
+      <td><img src="https://img.shields.io/badge/Accepted-28a745?style=flat-square" alt="Accepted"></td>
+    </tr>
+    <tr>
+      <td><strong>📚 Build with AI: MASR Edition</strong><br/><sub>Modern AI technologies & practical applications</sub></td>
+      <td>Google for Developers × ITI</td>
+      <td>2026</td>
+      <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
+    </tr>
+    <tr>
+      <td><strong>💼 NTI Job Fair</strong><br/><sub>Direct networking with recruiters & engineers across AI/Tech companies</sub></td>
+      <td>National Telecommunication Institute (NTI)</td>
+      <td>2026</td>
+      <td><img src="https://img.shields.io/badge/Attended-28a745?style=flat-square" alt="Attended"></td>
+    </tr>
+  </tbody>
+</table>
+
+<div align="center">
+  <sub>💡 Real learning happens beyond courses — through community, discussions, and shared experience.</sub>
+</div>
+---
 ## 📈 **GitHub Activity**
 
 <div align="center">
