@@ -425,9 +425,7 @@ Full-stack healthcare booking platform — web dashboard + Android app.
 
 ---
 
-<div align="center">
-  <img src="./assets/events-community-3d.svg" alt="Events & Community" width="100%">
-</div>
+<img src="./events-community-3d.svg" alt="Events & Community" width="100%">
 
 ---
 ## 📈 **GitHub Activity**
