@@ -12,48 +12,10 @@
 
 ---
 
-
 ## 🚀 **About Me**
 
 <div align="center">
-
-```python
-class SabryAlaaeldin:
-    def __init__(self):
-        self.name     = "Sabry Mohamed Alaaeldin"
-        self.role     = "AI Automation & Agentic AI Engineer"
-        self.location = "Egypt 🇪🇬"
-        self.languages = ["Arabic", "English"]
-        self.stack = {
-            "agents":     ["n8n", "LangChain", "OpenAI API", "Gemini AI"],
-
-            "rag":        ["FAISS", "pgvector", "Qdrant", "LangChain", "Pydantic"],
-
-            "backend":    ["Python", "FastAPI", "Node.js", "PostgreSQL"],
-
-            "frontend":   ["React", "Next.js", "Streamlit"],
-
-            "mobile":     ["Kotlin", "Jetpack Compose"],
-
-            "automation": ["n8n", "Make", "Webhooks", "API Integration"],
-
-            "data":       ["Power BI", "Pandas", "Scikit-learn", "Plotly"]
-        }
-        self.currently_building = [
-            "AI Secretary SaaS for Gulf Medical Clinics",
-            "AI Lead Generation Pipeline (n8n + OpenAI + Next.js)",
-            "SGU Student Guide RAG Chatbot (Production — Qdrant + n8n)",
-            "RAG-based Legal AI Assistant"
-        ]
-        self.philosophy = "Build AI that works in production, not just demos."
-
-    def say_hi(self):
-        print("Let's build something that actually solves a real problem 🚀")
-
-me = SabryAlaaeldin()
-me.say_hi()
-```
-
+  <img src="./about-me-code-3d.svg" alt="About Me" width="100%">
 </div>
 
 ---
@@ -478,63 +440,8 @@ Full-stack healthcare booking platform — web dashboard + Android app.
 
 ---
 
-## 🎯 **2026 AI Engineering Roadmap**
-
 <div align="center">
-
-```mermaid
-flowchart TD
-    S0["🧠 Foundation
-    Python · ML · Data Science"]
-
-    S1["✍️ Prompt Engineering
-    Abu Bakr Soliman
-    LLM · Tokenizers · Few-Shot · Output Parsers"]
-
-    S2["🦜 LangChain + RAG Basics
-    Abu Bakr Soliman
-    Memory · Embeddings · ChromaDB · QnA Chains"]
-
-    S3["⚙️ mini-RAG — Notebooks to Production
-    Abu Bakr Soliman · 25 videos
-    FastAPI · Docker · MongoDB · QDrant · PGVector · Celery"]
-
-    S4["🏭 Production RAG
-    FreeCodeCamp · 7.5h
-    Hybrid Search · Debugging · LangSmith · GraphRAG · Security"]
-
-    S5["🤖 Agentic AI Engineering
-    Karim Nabil · 8 Weeks
-    Tool Use · RAG Agents · CrewAI · n8n · Multi-Agent Systems"]
-
-    S5B["⚡ n8n Mastery
-    Kariim Nabiil · 26 videos
-    Automation · AI Agents · Telegram Bot · RAG Agent · Self-host"]
-
-    S6["🔬 Advanced AI Topics
-    Krish Naik · ~5h
-    LangGraph · Vectorless RAG · Guardrails · LLM Eval · Gateways"]
-
-    OUT["🎯 AI Engineer · Freelancer · SaaS Builder
-    RAG Apps · AI Agents · Gulf Market · Enterprise"]
-
-    S0 --> S1 --> S2 --> S3 --> S4 --> S5
-    S5 --> S5B
-    S5 --> S6
-    S5B --> S6
-    S6 --> OUT
-
-    style S0   fill:#1a1a2e,color:#e8eaf0,stroke:#6366f1
-    style S1   fill:#2e1a4e,color:#e9d5ff,stroke:#a78bfa
-    style S2   fill:#0c2a4e,color:#bae6fd,stroke:#38bdf8
-    style S3   fill:#0d2e2b,color:#99f6e4,stroke:#2dd4bf
-    style S4   fill:#3b1a08,color:#fed7aa,stroke:#fb923c
-    style S5   fill:#3b2800,color:#fef3c7,stroke:#fbbf24,stroke-width:3px
-    style S5B  fill:#0a2e0a,color:#bbf7d0,stroke:#22c55e
-    style S6   fill:#3b0d0d,color:#fecaca,stroke:#f87171
-    style OUT  fill:#3b0a28,color:#fbcfe8,stroke:#f472b6,stroke-width:3px
-```
-
+  <img src="./ai-roadmap-3d.svg" alt="AI Engineering Roadmap" width="100%">
 </div>
 
 ---
