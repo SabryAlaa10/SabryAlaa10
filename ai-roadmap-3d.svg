@@ -1,0 +1,152 @@
+<svg width="900" height="1290" viewBox="0 0 900 1290" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0e14"/>
+    </linearGradient>
+
+    <linearGradient id="cGreen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2a1c"/><stop offset="100%" stop-color="#0a1c13"/>
+    </linearGradient>
+    <linearGradient id="cPurple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f1a3d"/><stop offset="100%" stop-color="#140f2b"/>
+    </linearGradient>
+    <linearGradient id="cBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2038"/><stop offset="100%" stop-color="#0a1526"/>
+    </linearGradient>
+    <linearGradient id="cTeal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2a2e"/><stop offset="100%" stop-color="#0a1c1f"/>
+    </linearGradient>
+    <linearGradient id="cOrange" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a1f0f"/><stop offset="100%" stop-color="#1c150a"/>
+    </linearGradient>
+    <linearGradient id="cAmber" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2e2408"/><stop offset="100%" stop-color="#1e1705"/>
+    </linearGradient>
+    <linearGradient id="cRed" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2e1010"/><stop offset="100%" stop-color="#1e0a0a"/>
+    </linearGradient>
+    <linearGradient id="cPink" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a0f24"/><stop offset="100%" stop-color="#1c0a18"/>
+    </linearGradient>
+
+    <linearGradient id="aGreen" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#4ade80"/><stop offset="100%" stop-color="#16a34a"/></linearGradient>
+    <linearGradient id="aPurple" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#a78bfa"/><stop offset="100%" stop-color="#7c3aed"/></linearGradient>
+    <linearGradient id="aBlue" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#38bdf8"/><stop offset="100%" stop-color="#1f6feb"/></linearGradient>
+    <linearGradient id="aTeal" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#2dd4bf"/><stop offset="100%" stop-color="#0d9488"/></linearGradient>
+    <linearGradient id="aOrange" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#fb923c"/><stop offset="100%" stop-color="#c2410c"/></linearGradient>
+    <linearGradient id="aAmber" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#fbbf24"/><stop offset="100%" stop-color="#d97706"/></linearGradient>
+    <linearGradient id="aRed" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f87171"/><stop offset="100%" stop-color="#dc2626"/></linearGradient>
+    <linearGradient id="aPink" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f472b6"/><stop offset="100%" stop-color="#db2777"/></linearGradient>
+
+    <linearGradient id="sheen" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="40%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="dropshadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="1290" fill="url(#bg)"/>
+
+  <text x="450" y="52" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#e8eaf0" text-anchor="middle">🧭 AI Engineering Roadmap — 2025 – 2026</text>
+  <text x="450" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e" text-anchor="middle">خريطة كاملة من الأساس إلى AI Engineer محترف</text>
+
+  <!-- Stage template repeated: y offsets 105,240,375,510,645,780,915,1050 height 120 gap 15 -->
+
+  <!-- Stage 0 -->
+  <g filter="url(#dropshadow)"><rect x="40" y="105" width="820" height="120" rx="16" fill="url(#cGreen)" stroke="#215c3a" stroke-width="1.5"/><rect x="40" y="105" width="820" height="60" rx="16" fill="url(#sheen)"/></g>
+  <rect x="40" y="105" width="8" height="120" rx="4" fill="url(#aGreen)"/>
+  <circle cx="98" cy="165" r="30" fill="#123321" stroke="url(#aGreen)" stroke-width="2"/>
+  <text x="98" y="175" font-size="26" text-anchor="middle">🧠</text>
+  <text x="145" y="145" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#e8eaf0">المرحلة صفر — الأساس</text>
+  <text x="145" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#9fd8b0">Python · Machine Learning · Data Science · Statistics</text>
+  <text x="145" y="189" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#5f9e78">أساس متين جاهز</text>
+  <rect x="705" y="140" width="115" height="28" rx="14" fill="#0d3321" stroke="#2dd458" stroke-width="1"/>
+  <text x="762" y="158" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#3fe27a" text-anchor="middle">✔ مكتمل</text>
+
+  <!-- Stage 1 -->
+  <g filter="url(#dropshadow)"><rect x="40" y="240" width="820" height="120" rx="16" fill="url(#cPurple)" stroke="#3a2a5e" stroke-width="1.5"/><rect x="40" y="240" width="820" height="60" rx="16" fill="url(#sheen)"/></g>
+  <rect x="40" y="240" width="8" height="120" rx="4" fill="url(#aPurple)"/>
+  <circle cx="98" cy="300" r="30" fill="#1f1836" stroke="url(#aPurple)" stroke-width="2"/>
+  <text x="98" y="310" font-size="26" text-anchor="middle">✍️</text>
+  <text x="145" y="280" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#e8eaf0">المرحلة الأولى — Prompt Engineering</text>
+  <text x="145" y="303" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9b8f5">LLM Basics · Tokenizers · Few-Shot · Output Parsers · Pydantic</text>
+  <text x="145" y="324" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#8b7ba8">Abu Bakr Soliman · W1–W4 · Ch.1→Ch.6</text>
+  <rect x="705" y="275" width="115" height="28" rx="14" fill="#0d3321" stroke="#2dd458" stroke-width="1"/>
+  <text x="762" y="293" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#3fe27a" text-anchor="middle">✔ مكتمل</text>
+
+  <!-- Stage 2 -->
+  <g filter="url(#dropshadow)"><rect x="40" y="375" width="820" height="120" rx="16" fill="url(#cBlue)" stroke="#1f4570" stroke-width="1.5"/><rect x="40" y="375" width="820" height="60" rx="16" fill="url(#sheen)"/></g>
+  <rect x="40" y="375" width="8" height="120" rx="4" fill="url(#aBlue)"/>
+  <circle cx="98" cy="435" r="30" fill="#0f2540" stroke="url(#aBlue)" stroke-width="2"/>
+  <text x="98" y="445" font-size="26" text-anchor="middle">🦜</text>
+  <text x="145" y="415" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#e8eaf0">المرحلة الثانية — LangChain + RAG Basics</text>
+  <text x="145" y="438" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#a8d4f5">Memory Types · Embeddings · ChromaDB · QnA Chains</text>
+  <text x="145" y="459" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#6890b8">Abu Bakr Soliman · W4–W7 · Ch.7→Ch.9</text>
+  <rect x="705" y="410" width="115" height="28" rx="14" fill="#0d3321" stroke="#2dd458" stroke-width="1"/>
+  <text x="762" y="428" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#3fe27a" text-anchor="middle">✔ مكتمل</text>
+
+  <!-- Stage 3 (mini-RAG) -->
+  <g filter="url(#dropshadow)"><rect x="40" y="510" width="820" height="120" rx="16" fill="url(#cTeal)" stroke="#2dd4bf" stroke-width="2"/><rect x="40" y="510" width="820" height="60" rx="16" fill="url(#sheen)"/></g>
+  <rect x="40" y="510" width="8" height="120" rx="4" fill="url(#aTeal)"/>
+  <circle cx="98" cy="570" r="30" fill="#0f2926" stroke="url(#aTeal)" stroke-width="2"/>
+  <text x="98" y="580" font-size="26" text-anchor="middle">⚙️</text>
+  <text x="145" y="550" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#e8eaf0">المرحلة الثالثة — mini-RAG: Notebooks to Production</text>
+  <text x="145" y="573" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#a8ece3">FastAPI · Docker · MongoDB · QDrant · PGVector · Celery</text>
+  <text x="145" y="594" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#5f9e94">Abu Bakr Soliman · 25 فيديو · W7–W10</text>
+  <rect x="695" y="545" width="130" height="28" rx="14" fill="#3a1f00" stroke="#f87171" stroke-width="1"/>
+  <text x="760" y="563" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#fca5a5" text-anchor="middle">✦ جديد</text>
+
+  <!-- Stage 4 (Production RAG) -->
+  <g filter="url(#dropshadow)"><rect x="40" y="645" width="820" height="120" rx="16" fill="url(#cOrange)" stroke="#7c4a1a" stroke-width="1.5"/><rect x="40" y="645" width="820" height="60" rx="16" fill="url(#sheen)"/></g>
+  <rect x="40" y="645" width="8" height="120" rx="4" fill="url(#aOrange)"/>
+  <circle cx="98" cy="705" r="30" fill="#2a2010" stroke="url(#aOrange)" stroke-width="2"/>
+  <text x="98" y="715" font-size="26" text-anchor="middle">🏭</text>
+  <text x="145" y="685" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#e8eaf0">المرحلة الرابعة — Production RAG · Optimization</text>
+  <text x="145" y="708" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#f5deb0">Hybrid Search · Debugging · LangSmith · GraphRAG · Security</text>
+  <text x="145" y="729" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#a89165">FreeCodeCamp · 7.5h · W7–W9</text>
+  <rect x="695" y="680" width="130" height="28" rx="14" fill="#3a1f00" stroke="#f87171" stroke-width="1"/>
+  <text x="760" y="698" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#fca5a5" text-anchor="middle">✦ جديد</text>
+
+  <!-- Stage 5 (Agentic AI — HERE, in progress) -->
+  <g filter="url(#dropshadow)"><rect x="40" y="780" width="820" height="140" rx="16" fill="url(#cAmber)" stroke="#fbbf24" stroke-width="2.5"/><rect x="40" y="780" width="820" height="70" rx="16" fill="url(#sheen)"/></g>
+  <rect x="40" y="780" width="8" height="140" rx="4" fill="url(#aAmber)"/>
+  <circle cx="98" cy="838" r="30" fill="#332608" stroke="url(#aAmber)" stroke-width="2"/>
+  <text x="98" y="848" font-size="26" text-anchor="middle">🤖</text>
+  <text x="145" y="815" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#e8eaf0">المرحلة الخامسة — Agentic AI Engineering</text>
+  <text x="145" y="838" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fde9b0">Tool Use · RAG Agents · CrewAI · n8n · Multi-Agent Systems</text>
+  <text x="145" y="859" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#b89a55">Karim Nabil · 8 أسابيع · باقي L5 (CrewAI) فقط</text>
+  <rect x="670" y="795" width="150" height="28" rx="14" fill="#2e2100" stroke="#fbbf24" stroke-width="1.2"/>
+  <text x="745" y="813" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#fde047" text-anchor="middle">⬤ أنت هنا</text>
+  <!-- progress bar -->
+  <text x="145" y="882" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8b949e">التقدم</text>
+  <text x="815" y="882" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#4ade80" text-anchor="end">7 / 8 محاضرات · 87.5%</text>
+  <rect x="145" y="890" width="675" height="8" rx="4" fill="#241c07" stroke="#3a2f10" stroke-width="1"/>
+  <rect x="145" y="890" width="591" height="8" rx="4" fill="url(#aGreen)"/>
+
+  <!-- Stage 6 (Advanced Topics) -->
+  <g filter="url(#dropshadow)"><rect x="40" y="935" width="820" height="120" rx="16" fill="url(#cRed)" stroke="#7a2a2a" stroke-width="1.5"/><rect x="40" y="935" width="820" height="60" rx="16" fill="url(#sheen)"/></g>
+  <rect x="40" y="935" width="8" height="120" rx="4" fill="url(#aRed)"/>
+  <circle cx="98" cy="995" r="30" fill="#2a1212" stroke="url(#aRed)" stroke-width="2"/>
+  <text x="98" y="1005" font-size="26" text-anchor="middle">🔬</text>
+  <text x="145" y="975" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#e8eaf0">المرحلة السادسة — Advanced AI Topics</text>
+  <text x="145" y="998" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#f5b0b0">LangGraph · Vectorless RAG · Guardrails · LLM Eval · Gateways</text>
+  <text x="145" y="1019" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#a86565">dswithbappy + Krish Naik · ~16h · W17–W21</text>
+  <rect x="695" y="970" width="130" height="28" rx="14" fill="#3a1f00" stroke="#f87171" stroke-width="1"/>
+  <text x="760" y="988" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#fca5a5" text-anchor="middle">✦ جديد</text>
+
+  <!-- Stage 7 (Outcome) -->
+  <g filter="url(#dropshadow)"><rect x="40" y="1070" width="820" height="130" rx="16" fill="url(#cPink)" stroke="#8f2a70" stroke-width="2"/><rect x="40" y="1070" width="820" height="65" rx="16" fill="url(#sheen)"/></g>
+  <rect x="40" y="1070" width="8" height="130" rx="4" fill="url(#aPink)"/>
+  <circle cx="98" cy="1135" r="30" fill="#2a1024" stroke="url(#aPink)" stroke-width="2"/>
+  <text x="98" y="1145" font-size="26" text-anchor="middle">🎯</text>
+  <text x="145" y="1108" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#e8eaf0">🎯 النتيجة النهائية — AI Engineer محترف</text>
+  <text x="145" y="1132" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#f5b8dd">Chatbots ذكية · RAG Apps · AI Agents · SaaS Products</text>
+  <text x="145" y="1153" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#a8658f">Portfolio + Freelance Ready · مستقل / Upwork</text>
+
+  <text x="450" y="1245" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#6b7a99" text-anchor="middle">كل مرحلة قابلة للتنفيذ · كل تقنية مربوطة بمشروع حقيقي</text>
+  <text x="450" y="1268" font-family="Space Mono, monospace" font-size="11" fill="#4a5568" text-anchor="middle">SABRY · AI ENGINEERING ROADMAP · 2025–2026</text>
+</svg>
