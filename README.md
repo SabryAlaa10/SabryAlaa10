@@ -424,60 +424,11 @@ Full-stack healthcare booking platform — web dashboard + Android app.
 </table>
 
 ---
----
-
-## 🌟 **Events, Programs & Community Involvement**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Learning+Beyond+Courses;Building+Through+Community;Connecting+with+AI+Builders" alt="Events Typing" />
+  <img src="./assets/events-community-3d.svg" alt="Events & Community" width="100%">
 </div>
 
-<table align="center">
-  <thead>
-    <tr>
-      <th>📌 <strong>Event / Program</strong></th>
-      <th>🏢 <strong>Organizer(s)</strong></th>
-      <th>📅 <strong>Year</strong></th>
-      <th>🌟 <strong>Status</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>🤖 CognitionX Egypt 2026</strong><br/><sub>Agentic AI · Semantic Kernel · AI Security · GitHub Copilot · AI-Native Development</sub></td>
-      <td>Microsoft Egypt</td>
-      <td>2026</td>
-      <td><img src="https://img.shields.io/badge/Attended-28a745?style=flat-square" alt="Attended"></td>
-    </tr>
-    <tr>
-      <td><strong>⚡ n8n in Egypt</strong><br/><sub>Automation & AI community tech event</sub></td>
-      <td>n8n Community</td>
-      <td>2026</td>
-      <td><img src="https://img.shields.io/badge/Attended-28a745?style=flat-square" alt="Attended"></td>
-    </tr>
-    <tr>
-      <td><strong>🚀 AI Hackathons — Masafat Masr</strong><br/><sub>Selected participant, real-world AI problem solving</sub></td>
-      <td>Orange Digital Center · CreaTiva · ITIDA · TIEC · Constant</td>
-      <td>2026</td>
-      <td><img src="https://img.shields.io/badge/Accepted-28a745?style=flat-square" alt="Accepted"></td>
-    </tr>
-    <tr>
-      <td><strong>📚 Build with AI: MASR Edition</strong><br/><sub>Modern AI technologies & practical applications</sub></td>
-      <td>Google for Developers × ITI</td>
-      <td>2026</td>
-      <td><img src="https://img.shields.io/badge/Completed-28a745?style=flat-square" alt="Completed"></td>
-    </tr>
-    <tr>
-      <td><strong>💼 NTI Job Fair</strong><br/><sub>Direct networking with recruiters & engineers across AI/Tech companies</sub></td>
-      <td>National Telecommunication Institute (NTI)</td>
-      <td>2026</td>
-      <td><img src="https://img.shields.io/badge/Attended-28a745?style=flat-square" alt="Attended"></td>
-    </tr>
-  </tbody>
-</table>
-
-<div align="center">
-  <sub>💡 Real learning happens beyond courses — through community, discussions, and shared experience.</sub>
-</div>
 ---
 ## 📈 **GitHub Activity**
 
