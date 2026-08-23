@@ -1,0 +1,143 @@
+<svg width="900" height="920" viewBox="0 0 900 920" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0e14"/>
+    </linearGradient>
+
+    <linearGradient id="card1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a2540"/>
+      <stop offset="100%" stop-color="#0f1830"/>
+    </linearGradient>
+    <linearGradient id="card2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f1a3d"/>
+      <stop offset="100%" stop-color="#140f2b"/>
+    </linearGradient>
+    <linearGradient id="card3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2a2e"/>
+      <stop offset="100%" stop-color="#0a1c1f"/>
+    </linearGradient>
+    <linearGradient id="card4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a1f0f"/>
+      <stop offset="100%" stop-color="#1c150a"/>
+    </linearGradient>
+    <linearGradient id="card5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a0f24"/>
+      <stop offset="100%" stop-color="#1c0a18"/>
+    </linearGradient>
+
+    <linearGradient id="accent1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#1f6feb"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="accent3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#0d9488"/>
+    </linearGradient>
+    <linearGradient id="accent4" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <linearGradient id="accent5" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#db2777"/>
+    </linearGradient>
+
+    <linearGradient id="sheen" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="40%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="dropshadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="920" fill="url(#bg)"/>
+
+  <!-- Title -->
+  <text x="450" y="55" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#e6edf3" text-anchor="middle">🌟 Events, Programs &amp; Community Involvement</text>
+  <text x="450" y="82" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e" text-anchor="middle">Learning beyond courses — through community, discussions &amp; shared experience</text>
+
+  <!-- Card 1 -->
+  <g filter="url(#dropshadow)">
+    <rect x="40" y="115" width="820" height="140" rx="18" fill="url(#card1)" stroke="#2a3a5e" stroke-width="1.5"/>
+    <rect x="40" y="115" width="820" height="70" rx="18" fill="url(#sheen)"/>
+  </g>
+  <rect x="40" y="115" width="8" height="140" rx="4" fill="url(#accent1)"/>
+  <circle cx="100" cy="185" r="34" fill="#132039" stroke="url(#accent1)" stroke-width="2"/>
+  <text x="100" y="196" font-size="30" text-anchor="middle">🤖</text>
+  <text x="150" y="160" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#e6edf3">CognitionX Egypt 2026</text>
+  <text x="150" y="184" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#9fb3d1">Agentic AI · Semantic Kernel · AI Security · GitHub Copilot · AI-Native Dev</text>
+  <text x="150" y="207" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#6b7d99">Organized by Microsoft Egypt · 2026</text>
+  <rect x="700" y="150" width="120" height="30" rx="15" fill="#0d3321" stroke="#2dd458" stroke-width="1"/>
+  <text x="760" y="170" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#3fe27a" text-anchor="middle">✔ Attended</text>
+
+  <!-- Card 2 -->
+  <g filter="url(#dropshadow)">
+    <rect x="40" y="275" width="820" height="140" rx="18" fill="url(#card2)" stroke="#3a2a5e" stroke-width="1.5"/>
+    <rect x="40" y="275" width="820" height="70" rx="18" fill="url(#sheen)"/>
+  </g>
+  <rect x="40" y="275" width="8" height="140" rx="4" fill="url(#accent2)"/>
+  <circle cx="100" cy="345" r="34" fill="#1f1836" stroke="url(#accent2)" stroke-width="2"/>
+  <text x="100" y="356" font-size="30" text-anchor="middle">⚡</text>
+  <text x="150" y="320" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#e6edf3">n8n in Egypt</text>
+  <text x="150" y="344" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#c9b8f5">Automation &amp; AI community tech event</text>
+  <text x="150" y="367" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#8b7ba8">Organized by n8n Community · 2026</text>
+  <rect x="700" y="310" width="120" height="30" rx="15" fill="#0d3321" stroke="#2dd458" stroke-width="1"/>
+  <text x="760" y="330" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#3fe27a" text-anchor="middle">✔ Attended</text>
+
+  <!-- Card 3 -->
+  <g filter="url(#dropshadow)">
+    <rect x="40" y="435" width="820" height="140" rx="18" fill="url(#card3)" stroke="#1f4d4a" stroke-width="1.5"/>
+    <rect x="40" y="435" width="820" height="70" rx="18" fill="url(#sheen)"/>
+  </g>
+  <rect x="40" y="435" width="8" height="140" rx="4" fill="url(#accent3)"/>
+  <circle cx="100" cy="505" r="34" fill="#0f2624" stroke="url(#accent3)" stroke-width="2"/>
+  <text x="100" y="516" font-size="30" text-anchor="middle">🚀</text>
+  <text x="150" y="480" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#e6edf3">AI Hackathons — Masafat Masr</text>
+  <text x="150" y="504" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a8ece3">Selected participant · real-world AI problem solving</text>
+  <text x="150" y="527" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#5f9e94">Orange Digital Center · CreaTiva · ITIDA · TIEC · Constant · 2026</text>
+  <rect x="690" y="470" width="130" height="30" rx="15" fill="#0d3321" stroke="#2dd458" stroke-width="1"/>
+  <text x="755" y="490" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#3fe27a" text-anchor="middle">✔ Accepted</text>
+
+  <!-- Card 4 -->
+  <g filter="url(#dropshadow)">
+    <rect x="40" y="595" width="820" height="140" rx="18" fill="url(#card4)" stroke="#5e4a2a" stroke-width="1.5"/>
+    <rect x="40" y="595" width="820" height="70" rx="18" fill="url(#sheen)"/>
+  </g>
+  <rect x="40" y="595" width="8" height="140" rx="4" fill="url(#accent4)"/>
+  <circle cx="100" cy="665" r="34" fill="#2a2010" stroke="url(#accent4)" stroke-width="2"/>
+  <text x="100" y="676" font-size="30" text-anchor="middle">📚</text>
+  <text x="150" y="640" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#e6edf3">Build with AI: MASR Edition</text>
+  <text x="150" y="664" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#f5deb0">Modern AI technologies &amp; practical applications</text>
+  <text x="150" y="687" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#a89165">Google for Developers × ITI · 2026</text>
+  <rect x="700" y="630" width="120" height="30" rx="15" fill="#0d3321" stroke="#2dd458" stroke-width="1"/>
+  <text x="760" y="650" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#3fe27a" text-anchor="middle">✔ Completed</text>
+
+  <!-- Card 5 -->
+  <g filter="url(#dropshadow)">
+    <rect x="40" y="755" width="820" height="140" rx="18" fill="url(#card5)" stroke="#5e2a4e" stroke-width="1.5"/>
+    <rect x="40" y="755" width="820" height="70" rx="18" fill="url(#sheen)"/>
+  </g>
+  <rect x="40" y="755" width="8" height="140" rx="4" fill="url(#accent5)"/>
+  <circle cx="100" cy="825" r="34" fill="#2a1024" stroke="url(#accent5)" stroke-width="2"/>
+  <text x="100" y="836" font-size="30" text-anchor="middle">💼</text>
+  <text x="150" y="800" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#e6edf3">NTI Job Fair</text>
+  <text x="150" y="824" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#f5b8dd">Direct networking with recruiters &amp; engineers across AI/Tech companies</text>
+  <text x="150" y="847" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#a8658f">National Telecommunication Institute (NTI) · 2026</text>
+  <rect x="700" y="790" width="120" height="30" rx="15" fill="#0d3321" stroke="#2dd458" stroke-width="1"/>
+  <text x="760" y="810" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#3fe27a" text-anchor="middle">✔ Attended</text>
+
+</svg>
