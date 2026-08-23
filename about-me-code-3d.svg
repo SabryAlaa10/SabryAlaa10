@@ -1,0 +1,92 @@
+<svg width="900" height="760" viewBox="0 0 900 760" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#080a0f"/>
+    </linearGradient>
+    <linearGradient id="window" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#151b28"/>
+      <stop offset="100%" stop-color="#0e1420"/>
+    </linearGradient>
+    <linearGradient id="titlebar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1c2333"/>
+      <stop offset="100%" stop-color="#171d2b"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="30%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="accentBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c6fff"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <filter id="dropshadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="760" fill="url(#bg)"/>
+  <!-- glow orbs -->
+  <circle cx="820" cy="60" r="140" fill="#7c6fff" opacity="0.06" filter="url(#glow)"/>
+  <circle cx="60" cy="700" r="120" fill="#2dd4bf" opacity="0.05" filter="url(#glow)"/>
+
+  <text x="450" y="42" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" fill="#e8eaf0" text-anchor="middle">🚀 About Me</text>
+
+  <!-- IDE window -->
+  <g filter="url(#dropshadow)">
+    <rect x="40" y="65" width="820" height="655" rx="16" fill="url(#window)" stroke="#2a3348" stroke-width="1.5"/>
+    <rect x="40" y="65" width="820" height="120" rx="16" fill="url(#sheen)"/>
+  </g>
+
+  <!-- title bar -->
+  <path d="M40 81 a16 16 0 0 1 16 -16 h772 a16 16 0 0 1 16 16 v34 h-804 z" fill="url(#titlebar)"/>
+  <circle cx="66" cy="98" r="6" fill="#ff5f57"/>
+  <circle cx="86" cy="98" r="6" fill="#febc2e"/>
+  <circle cx="106" cy="98" r="6" fill="#28c840"/>
+  <text x="450" y="103" font-family="Space Mono, monospace" font-size="12.5" fill="#8b949e" text-anchor="middle">sabry_alaaeldin.py</text>
+  <rect x="40" y="115" width="820" height="3" fill="url(#accentBar)"/>
+
+  <!-- code body -->
+  <g font-family="Consolas, Space Mono, monospace" font-size="13.5">
+    <text x="66" y="150"><tspan fill="#f97583">class</tspan><tspan fill="#e8eaf0"> </tspan><tspan fill="#79c0ff">SabryAlaaeldin</tspan><tspan fill="#e8eaf0">:</tspan></text>
+    <text x="86" y="174"><tspan fill="#f97583">def</tspan><tspan fill="#e8eaf0"> </tspan><tspan fill="#d2a8ff">__init__</tspan><tspan fill="#e8eaf0">(self):</tspan></text>
+
+    <text x="106" y="198"><tspan fill="#e8eaf0">self.name</tspan><tspan fill="#8b949e">     = </tspan><tspan fill="#a5d6a7">"Sabry Mohamed Alaaeldin"</tspan></text>
+    <text x="106" y="222"><tspan fill="#e8eaf0">self.role</tspan><tspan fill="#8b949e">     = </tspan><tspan fill="#a5d6a7">"AI Automation &amp; Agentic AI Engineer"</tspan></text>
+    <text x="106" y="246"><tspan fill="#e8eaf0">self.location</tspan><tspan fill="#8b949e"> = </tspan><tspan fill="#a5d6a7">"Egypt 🇪🇬"</tspan></text>
+    <text x="106" y="270"><tspan fill="#e8eaf0">self.languages</tspan><tspan fill="#8b949e"> = [</tspan><tspan fill="#a5d6a7">"Arabic"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6a7">"English"</tspan><tspan fill="#8b949e">]</tspan></text>
+
+    <text x="106" y="298"><tspan fill="#e8eaf0">self.stack</tspan><tspan fill="#8b949e"> = {</tspan></text>
+    <text x="126" y="320"><tspan fill="#a5d6a7">"agents"</tspan><tspan fill="#8b949e">:     [</tspan><tspan fill="#ffcb6b">n8n, LangChain, OpenAI API, Gemini AI</tspan><tspan fill="#8b949e">],</tspan></text>
+    <text x="126" y="342"><tspan fill="#a5d6a7">"rag"</tspan><tspan fill="#8b949e">:        [</tspan><tspan fill="#ffcb6b">FAISS, pgvector, Qdrant, Pydantic</tspan><tspan fill="#8b949e">],</tspan></text>
+    <text x="126" y="364"><tspan fill="#a5d6a7">"backend"</tspan><tspan fill="#8b949e">:    [</tspan><tspan fill="#ffcb6b">Python, FastAPI, Node.js, PostgreSQL</tspan><tspan fill="#8b949e">],</tspan></text>
+    <text x="126" y="386"><tspan fill="#a5d6a7">"frontend"</tspan><tspan fill="#8b949e">:   [</tspan><tspan fill="#ffcb6b">React, Next.js, Streamlit</tspan><tspan fill="#8b949e">],</tspan></text>
+    <text x="126" y="408"><tspan fill="#a5d6a7">"mobile"</tspan><tspan fill="#8b949e">:     [</tspan><tspan fill="#ffcb6b">Kotlin, Jetpack Compose</tspan><tspan fill="#8b949e">],</tspan></text>
+    <text x="126" y="430"><tspan fill="#a5d6a7">"automation"</tspan><tspan fill="#8b949e">: [</tspan><tspan fill="#ffcb6b">n8n, Make, Webhooks, API Integration</tspan><tspan fill="#8b949e">],</tspan></text>
+    <text x="126" y="452"><tspan fill="#a5d6a7">"data"</tspan><tspan fill="#8b949e">:       [</tspan><tspan fill="#ffcb6b">Power BI, Pandas, Scikit-learn, Plotly</tspan><tspan fill="#8b949e">]</tspan></text>
+    <text x="106" y="474"><tspan fill="#8b949e">}</tspan></text>
+
+    <text x="106" y="502"><tspan fill="#e8eaf0">self.currently_building</tspan><tspan fill="#8b949e"> = [</tspan></text>
+    <text x="126" y="524"><tspan fill="#a5d6a7">"AI Secretary SaaS for Gulf Medical Clinics"</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="126" y="546"><tspan fill="#a5d6a7">"AI Lead Generation Pipeline (n8n + OpenAI + Next.js)"</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="126" y="568"><tspan fill="#a5d6a7">"SGU Student Guide RAG Chatbot (Production — Qdrant + n8n)"</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="126" y="590"><tspan fill="#a5d6a7">"RAG-based Legal AI Assistant"</tspan></text>
+    <text x="106" y="612"><tspan fill="#8b949e">]</tspan></text>
+
+    <text x="106" y="638"><tspan fill="#e8eaf0">self.philosophy</tspan><tspan fill="#8b949e"> = </tspan><tspan fill="#a5d6a7">"Build AI that works in production, not just demos."</tspan></text>
+
+    <text x="86" y="666"><tspan fill="#f97583">def</tspan><tspan fill="#e8eaf0"> </tspan><tspan fill="#d2a8ff">say_hi</tspan><tspan fill="#e8eaf0">(self):</tspan></text>
+    <text x="106" y="688"><tspan fill="#79c0ff">print</tspan><tspan fill="#e8eaf0">(</tspan><tspan fill="#a5d6a7">"Let's build something that actually solves a real problem 🚀"</tspan><tspan fill="#e8eaf0">)</tspan></text>
+
+    <text x="66" y="712"><tspan fill="#79c0ff">me</tspan><tspan fill="#e8eaf0"> = </tspan><tspan fill="#79c0ff">SabryAlaaeldin</tspan><tspan fill="#e8eaf0">()</tspan></text>
+    <text x="66" y="704" opacity="0"> </text>
+  </g>
+
+  <text x="66" y="734" font-family="Consolas, Space Mono, monospace" font-size="13.5" fill="#e8eaf0">me.say_hi()</text>
+
+</svg>
